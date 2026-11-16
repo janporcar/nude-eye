@@ -1,0 +1,152 @@
+[
+  {
+    "client_id": 1,
+    "client_type": "in_person",
+    "full_name": "Jan Porcar",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "8974537"
+      }
+    ]
+  },
+  {
+    "client_id": 2,
+    "client_type": "online",
+    "full_name": "Online Demo Client",
+    "email": "online.demo@nudeeye.com",
+    "shipping_address": {
+      "street": "Sant Joan de La Salle",
+      "number": 42,
+      "city": "Barcelona",
+      "country": "Spain",
+      "postal_code": "08022"
+    },
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "600000002"
+      }
+    ]
+  },
+  {
+    "client_id": 3,
+    "client_type": "corporate",
+    "full_name": "Foreign Corp Ltd.",
+    "nif": "X12345678",
+    "contact_person": "Jane Foreign",
+    "billing_address": {
+      "street": "Oxford Street",
+      "number": 10,
+      "city": "London",
+      "country": "United Kingdom",
+      "postal_code": "W1D1BS"
+    },
+    "shipping_address": {
+      "street": "Sant Joan de La Salle",
+      "number": 42,
+      "city": "Barcelona",
+      "country": "Spain",
+      "postal_code": "08022"
+    },
+    "phone_numbers": [
+      {
+        "country_prefix": "+44",
+        "number": "700000003"
+      }
+    ]
+  },
+  {
+    "client_id": 4,
+    "client_type": "corporate",
+    "full_name": "Spanish Corp S.L.",
+    "nif": "B12345678",
+    "contact_person": "Juan Empresa",
+    "billing_address": {
+      "street": "Diagonal",
+      "number": 100,
+      "city": "Barcelona",
+      "country": "Spain",
+      "postal_code": "08018"
+    },
+    "shipping_address": {
+      "street": "Diagonal",
+      "number": 100,
+      "city": "Barcelona",
+      "country": "Spain",
+      "postal_code": "08018"
+    },
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "600000004"
+      }
+    ]
+  },
+  {
+    "client_id": 5,
+    "client_type": "in_person",
+    "full_name": "Demo Client 5",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "600000005"
+      }
+    ]
+  },
+  {
+    "client_id": 6,
+    "client_type": "in_person",
+    "full_name": "Demo Client 6",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "600000006"
+      }
+    ]
+  },
+  {
+    "client_id": 7,
+    "client_type": "in_person",
+    "full_name": "Demo Client 7",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "600000007"
+      }
+    ]
+  },
+  {
+    "client_id": 8,
+    "client_type": "in_person",
+    "full_name": "Demo Client 8",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "600000008"
+      }
+    ]
+  },
+  {
+    "client_id": 9,
+    "client_type": "in_person",
+    "full_name": "Demo Client 9",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "600000009"
+      }
+    ]
+  },
+  {
+    "client_id": 10,
+    "client_type": "in_person",
+    "full_name": "Demo Client 10",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "6000000010"
+      }
+    ]
+  }
+]

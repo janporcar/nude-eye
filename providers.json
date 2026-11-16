@@ -1,0 +1,642 @@
+[
+  {
+    "cif": "B12345678",
+    "products_for_sale": [
+      {
+        "selling_price": 227.67999267578125,
+        "units_in_stock": 39,
+        "product_id": "GLS-0001J"
+      },
+      {
+        "selling_price": 140.52000427246094,
+        "units_in_stock": 25,
+        "product_id": "GLS-0011W"
+      },
+      {
+        "selling_price": 228.1999969482422,
+        "units_in_stock": 37,
+        "product_id": "GLS-0021G"
+      },
+      {
+        "selling_price": 103.94999694824219,
+        "units_in_stock": 63,
+        "product_id": "GLS-0031H"
+      },
+      {
+        "selling_price": 235.19000244140625,
+        "units_in_stock": 24,
+        "product_id": "GLS-0041V"
+      },
+      {
+        "selling_price": 265.4100036621094,
+        "units_in_stock": 56,
+        "product_id": "GLS-0051N"
+      },
+      {
+        "selling_price": 187.57000732421875,
+        "units_in_stock": 54,
+        "product_id": "GLS-0061D"
+      },
+      {
+        "selling_price": 215.99000549316406,
+        "units_in_stock": 94,
+        "product_id": "GLS-0071H"
+      },
+      {
+        "selling_price": 238.64999389648438,
+        "units_in_stock": 18,
+        "product_id": "GLS-0081L"
+      },
+      {
+        "selling_price": 160.6199951171875,
+        "units_in_stock": 89,
+        "product_id": "GLS-0091C"
+      },
+      {
+        "product_id": "CLS-0001A",
+        "selling_price": 28.5,
+        "units_in_stock": 50
+      },
+      {
+        "product_id": "CON-0001A",
+        "selling_price": 8.9,
+        "units_in_stock": 80
+      }
+    ],
+    "contact_name": "Carlos Mart\u00ednez",
+    "phone": "+34 612 345 678",
+    "company_name": "VisionPro S.A.",
+    "provider_id": 101,
+    "email": "carlos.martinez@visionpro.es"
+  },
+  {
+    "cif": "B87654321",
+    "products_for_sale": [
+      {
+        "selling_price": 98.94999694824219,
+        "units_in_stock": 88,
+        "product_id": "GLS-0002J"
+      },
+      {
+        "selling_price": 84.51000213623047,
+        "units_in_stock": 24,
+        "product_id": "GLS-0012G"
+      },
+      {
+        "selling_price": 208.57000732421875,
+        "units_in_stock": 57,
+        "product_id": "GLS-0022O"
+      },
+      {
+        "selling_price": 238.27000427246094,
+        "units_in_stock": 76,
+        "product_id": "GLS-0032R"
+      },
+      {
+        "selling_price": 151.33999633789062,
+        "units_in_stock": 98,
+        "product_id": "GLS-0042B"
+      },
+      {
+        "selling_price": 132.75,
+        "units_in_stock": 23,
+        "product_id": "GLS-0052R"
+      },
+      {
+        "selling_price": 254.6199951171875,
+        "units_in_stock": 77,
+        "product_id": "GLS-0062R"
+      },
+      {
+        "selling_price": 131.8699951171875,
+        "units_in_stock": 98,
+        "product_id": "GLS-0072G"
+      },
+      {
+        "selling_price": 237.89999389648438,
+        "units_in_stock": 74,
+        "product_id": "GLS-0082M"
+      },
+      {
+        "selling_price": 228.92999267578125,
+        "units_in_stock": 71,
+        "product_id": "GLS-0092K"
+      },
+      {
+        "product_id": "SRV-0001A",
+        "selling_price": 35.0,
+        "units_in_stock": 999
+      },
+      {
+        "product_id": "SRV-0002A",
+        "selling_price": 22.0,
+        "units_in_stock": 999
+      }
+    ],
+    "contact_name": "Luc\u00eda G\u00f3mez",
+    "phone": "+34 622 456 789",
+    "company_name": "OptiLux S.L.",
+    "provider_id": 102,
+    "email": "lucia.gomez@optilux.es"
+  },
+  {
+    "cif": "B11223344",
+    "products_for_sale": [
+      {
+        "selling_price": 283.7300109863281,
+        "units_in_stock": 50,
+        "product_id": "GLS-0003H"
+      },
+      {
+        "selling_price": 135.75,
+        "units_in_stock": 93,
+        "product_id": "GLS-0013D"
+      },
+      {
+        "selling_price": 260.80999755859375,
+        "units_in_stock": 84,
+        "product_id": "GLS-0023D"
+      },
+      {
+        "selling_price": 145.92999267578125,
+        "units_in_stock": 67,
+        "product_id": "GLS-0033A"
+      },
+      {
+        "selling_price": 281.3999938964844,
+        "units_in_stock": 34,
+        "product_id": "GLS-0043Z"
+      },
+      {
+        "selling_price": 109.72000122070312,
+        "units_in_stock": 83,
+        "product_id": "GLS-0053J"
+      },
+      {
+        "selling_price": 251.82000732421875,
+        "units_in_stock": 21,
+        "product_id": "GLS-0063K"
+      },
+      {
+        "selling_price": 299.54998779296875,
+        "units_in_stock": 23,
+        "product_id": "GLS-0073V"
+      },
+      {
+        "selling_price": 249.97000122070312,
+        "units_in_stock": 25,
+        "product_id": "GLS-0083A"
+      },
+      {
+        "selling_price": 213.4499969482422,
+        "units_in_stock": 39,
+        "product_id": "GLS-0093S"
+      },
+      {
+        "product_id": "CLS-0001A",
+        "selling_price": 29.5,
+        "units_in_stock": 50
+      },
+      {
+        "product_id": "CON-0001A",
+        "selling_price": 9.9,
+        "units_in_stock": 80
+      },
+      {
+        "product_id": "SRV-0001A",
+        "selling_price": 36.0,
+        "units_in_stock": 999
+      },
+      {
+        "product_id": "SRV-0002A",
+        "selling_price": 23.0,
+        "units_in_stock": 999
+      }
+    ],
+    "contact_name": "Javier Torres",
+    "phone": "+34 632 567 890",
+    "company_name": "ClearView Iberia S.A.",
+    "provider_id": 103,
+    "email": "javier.torres@clearview.es"
+  },
+  {
+    "cif": "B99887766",
+    "products_for_sale": [
+      {
+        "selling_price": 127.33000183105469,
+        "units_in_stock": 38,
+        "product_id": "GLS-0004E"
+      },
+      {
+        "selling_price": 238.89999389648438,
+        "units_in_stock": 47,
+        "product_id": "GLS-0014X"
+      },
+      {
+        "selling_price": 171.3699951171875,
+        "units_in_stock": 85,
+        "product_id": "GLS-0024T"
+      },
+      {
+        "selling_price": 176.05999755859375,
+        "units_in_stock": 50,
+        "product_id": "GLS-0034M"
+      },
+      {
+        "selling_price": 207.13999938964844,
+        "units_in_stock": 26,
+        "product_id": "GLS-0044B"
+      },
+      {
+        "selling_price": 139.4499969482422,
+        "units_in_stock": 58,
+        "product_id": "GLS-0054I"
+      },
+      {
+        "selling_price": 100.98999786376953,
+        "units_in_stock": 19,
+        "product_id": "GLS-0064T"
+      },
+      {
+        "selling_price": 291.7699890136719,
+        "units_in_stock": 88,
+        "product_id": "GLS-0052R"
+      },
+      {
+        "selling_price": 208.6699981689453,
+        "units_in_stock": 28,
+        "product_id": "GLS-0084R"
+      },
+      {
+        "selling_price": 81.27999877929688,
+        "units_in_stock": 89,
+        "product_id": "GLS-0094B"
+      }
+    ],
+    "contact_name": "Ana Ruiz",
+    "phone": "+34 642 678 901",
+    "company_name": "EyeCraft Europa S.L.",
+    "provider_id": 104,
+    "email": "ana.ruiz@eyecraft.es"
+  },
+  {
+    "cif": "B55667788",
+    "products_for_sale": [
+      {
+        "selling_price": 94.7300033569336,
+        "units_in_stock": 36,
+        "product_id": "GLS-0005X"
+      },
+      {
+        "selling_price": 287.67999267578125,
+        "units_in_stock": 16,
+        "product_id": "GLS-0015B"
+      },
+      {
+        "selling_price": 185.97000122070312,
+        "units_in_stock": 86,
+        "product_id": "GLS-0025M"
+      },
+      {
+        "selling_price": 168.17999267578125,
+        "units_in_stock": 73,
+        "product_id": "GLS-0035C"
+      },
+      {
+        "selling_price": 183.07000732421875,
+        "units_in_stock": 93,
+        "product_id": "GLS-0045B"
+      },
+      {
+        "selling_price": 299.82000732421875,
+        "units_in_stock": 43,
+        "product_id": "GLS-0055V"
+      },
+      {
+        "selling_price": 204.0800018310547,
+        "units_in_stock": 81,
+        "product_id": "GLS-0065Q"
+      },
+      {
+        "selling_price": 267.2900085449219,
+        "units_in_stock": 41,
+        "product_id": "GLS-0075F"
+      },
+      {
+        "selling_price": 174.52000427246094,
+        "units_in_stock": 80,
+        "product_id": "GLS-0085W"
+      },
+      {
+        "selling_price": 137.67999267578125,
+        "units_in_stock": 97,
+        "product_id": "GLS-0095V"
+      }
+    ],
+    "contact_name": "David Fern\u00e1ndez",
+    "phone": "+34 652 789 012",
+    "company_name": "Lensify Espa\u00f1a S.A.",
+    "provider_id": 105,
+    "email": "david.fernandez@lensify.es"
+  },
+  {
+    "cif": "B33445566",
+    "products_for_sale": [
+      {
+        "selling_price": 247.55999755859375,
+        "units_in_stock": 80,
+        "product_id": "GLS-0006O"
+      },
+      {
+        "selling_price": 145.47000122070312,
+        "units_in_stock": 84,
+        "product_id": "GLS-0016H"
+      },
+      {
+        "selling_price": 295.29998779296875,
+        "units_in_stock": 71,
+        "product_id": "GLS-0026E"
+      },
+      {
+        "selling_price": 294.70001220703125,
+        "units_in_stock": 42,
+        "product_id": "GLS-0036F"
+      },
+      {
+        "selling_price": 240.82000732421875,
+        "units_in_stock": 86,
+        "product_id": "GLS-0046T"
+      },
+      {
+        "selling_price": 280.2900085449219,
+        "units_in_stock": 11,
+        "product_id": "GLS-0056R"
+      },
+      {
+        "selling_price": 198.44000244140625,
+        "units_in_stock": 83,
+        "product_id": "GLS-0066J"
+      },
+      {
+        "selling_price": 177.99000549316406,
+        "units_in_stock": 84,
+        "product_id": "GLS-0076E"
+      },
+      {
+        "selling_price": 296.7799987792969,
+        "units_in_stock": 20,
+        "product_id": "GLS-0086N"
+      },
+      {
+        "selling_price": 176.6699981689453,
+        "units_in_stock": 97,
+        "product_id": "GLS-0096D"
+      }
+    ],
+    "contact_name": "Mar\u00eda L\u00f3pez",
+    "phone": "+34 662 890 123",
+    "company_name": "FrameTech S.L.",
+    "provider_id": 106,
+    "email": "maria.lopez@frametech.es"
+  },
+  {
+    "cif": "B77889900",
+    "products_for_sale": [
+      {
+        "selling_price": 100.18000030517578,
+        "units_in_stock": 72,
+        "product_id": "GLS-0007I"
+      },
+      {
+        "selling_price": 244.3699951171875,
+        "units_in_stock": 12,
+        "product_id": "GLS-0017W"
+      },
+      {
+        "selling_price": 215.82000732421875,
+        "units_in_stock": 93,
+        "product_id": "GLS-0027K"
+      },
+      {
+        "selling_price": 102.05999755859375,
+        "units_in_stock": 28,
+        "product_id": "GLS-0037X"
+      },
+      {
+        "selling_price": 110.12000274658203,
+        "units_in_stock": 12,
+        "product_id": "GLS-0047E"
+      },
+      {
+        "selling_price": 125.61000061035156,
+        "units_in_stock": 61,
+        "product_id": "GLS-0057W"
+      },
+      {
+        "selling_price": 242.47000122070312,
+        "units_in_stock": 19,
+        "product_id": "GLS-0067T"
+      },
+      {
+        "selling_price": 137.24000549316406,
+        "units_in_stock": 25,
+        "product_id": "GLS-0077U"
+      },
+      {
+        "selling_price": 81.02999877929688,
+        "units_in_stock": 53,
+        "product_id": "GLS-0087P"
+      },
+      {
+        "selling_price": 297.3900146484375,
+        "units_in_stock": 46,
+        "product_id": "GLS-0097K"
+      }
+    ],
+    "contact_name": "Ra\u00fal S\u00e1nchez",
+    "phone": "+34 672 901 234",
+    "company_name": "Spectra Vision S.A.",
+    "provider_id": 107,
+    "email": "raul.sanchez@spectra.es"
+  },
+  {
+    "cif": "B44556677",
+    "products_for_sale": [
+      {
+        "selling_price": 266.7200012207031,
+        "units_in_stock": 57,
+        "product_id": "GLS-0008E"
+      },
+      {
+        "selling_price": 169.74000549316406,
+        "units_in_stock": 65,
+        "product_id": "GLS-0018R"
+      },
+      {
+        "selling_price": 95.37999725341797,
+        "units_in_stock": 46,
+        "product_id": "GLS-0028B"
+      },
+      {
+        "selling_price": 136.30999755859375,
+        "units_in_stock": 52,
+        "product_id": "GLS-0038X"
+      },
+      {
+        "selling_price": 238.27999877929688,
+        "units_in_stock": 56,
+        "product_id": "GLS-0048U"
+      },
+      {
+        "selling_price": 254.4499969482422,
+        "units_in_stock": 37,
+        "product_id": "GLS-0058N"
+      },
+      {
+        "selling_price": 93.66000366210938,
+        "units_in_stock": 24,
+        "product_id": "GLS-0068F"
+      },
+      {
+        "selling_price": 89.58999633789062,
+        "units_in_stock": 89,
+        "product_id": "GLS-0078X"
+      },
+      {
+        "selling_price": 219.9600067138672,
+        "units_in_stock": 98,
+        "product_id": "GLS-0088L"
+      },
+      {
+        "selling_price": 150.4600067138672,
+        "units_in_stock": 10,
+        "product_id": "GLS-0098G"
+      }
+    ],
+    "contact_name": "Isabel Navarro",
+    "phone": "+34 682 012 345",
+    "company_name": "LuxSight S.L.",
+    "provider_id": 108,
+    "email": "isabel.navarro@luxsight.es"
+  },
+  {
+    "cif": "B22334455",
+    "products_for_sale": [
+      {
+        "selling_price": 150.08999633789062,
+        "units_in_stock": 40,
+        "product_id": "GLS-0009O"
+      },
+      {
+        "selling_price": 272.07000732421875,
+        "units_in_stock": 42,
+        "product_id": "GLS-0019C"
+      },
+      {
+        "selling_price": 233.33999633789062,
+        "units_in_stock": 20,
+        "product_id": "GLS-0029J"
+      },
+      {
+        "selling_price": 88.19000244140625,
+        "units_in_stock": 68,
+        "product_id": "GLS-0039D"
+      },
+      {
+        "selling_price": 201.9499969482422,
+        "units_in_stock": 30,
+        "product_id": "GLS-0049N"
+      },
+      {
+        "selling_price": 274.2200012207031,
+        "units_in_stock": 68,
+        "product_id": "GLS-0059K"
+      },
+      {
+        "selling_price": 276.3900146484375,
+        "units_in_stock": 87,
+        "product_id": "GLS-0069F"
+      },
+      {
+        "selling_price": 201.38999938964844,
+        "units_in_stock": 21,
+        "product_id": "GLS-0079I"
+      },
+      {
+        "selling_price": 214.02999877929688,
+        "units_in_stock": 25,
+        "product_id": "GLS-0089Z"
+      },
+      {
+        "selling_price": 217.86000061035156,
+        "units_in_stock": 60,
+        "product_id": "GLS-0099W"
+      }
+    ],
+    "contact_name": "Pedro Jim\u00e9nez",
+    "phone": "+34 692 123 456",
+    "company_name": "NovaFrame S.A.",
+    "provider_id": 109,
+    "email": "pedro.jimenez@novaframe.es"
+  },
+  {
+    "cif": "B66778899",
+    "products_for_sale": [
+      {
+        "selling_price": 177.8300018310547,
+        "units_in_stock": 78,
+        "product_id": "GLS-0010X"
+      },
+      {
+        "selling_price": 194.24000549316406,
+        "units_in_stock": 46,
+        "product_id": "GLS-0020S"
+      },
+      {
+        "selling_price": 99.97000122070312,
+        "units_in_stock": 86,
+        "product_id": "GLS-0030J"
+      },
+      {
+        "selling_price": 244.22000122070312,
+        "units_in_stock": 95,
+        "product_id": "GLS-0040T"
+      },
+      {
+        "selling_price": 200.8699951171875,
+        "units_in_stock": 81,
+        "product_id": "GLS-0050F"
+      },
+      {
+        "selling_price": 235.50999450683594,
+        "units_in_stock": 72,
+        "product_id": "GLS-0060D"
+      },
+      {
+        "selling_price": 168.75,
+        "units_in_stock": 18,
+        "product_id": "GLS-0070T"
+      },
+      {
+        "selling_price": 95.41000366210938,
+        "units_in_stock": 47,
+        "product_id": "GLS-0080X"
+      },
+      {
+        "selling_price": 294.95001220703125,
+        "units_in_stock": 63,
+        "product_id": "GLS-0090I"
+      },
+      {
+        "selling_price": 237.11000061035156,
+        "units_in_stock": 25,
+        "product_id": "GLS-0100S"
+      }
+    ],
+    "contact_name": "Elena Castro",
+    "phone": "+34 602 234 567",
+    "company_name": "ZenOptic S.L.",
+    "provider_id": 110,
+    "email": "elena.castro@zenoptic.es"
+  }
+]
